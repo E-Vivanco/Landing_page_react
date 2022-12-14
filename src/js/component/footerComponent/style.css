@@ -1,11 +1,12 @@
 .footer-col {
     position: relative;
-  /*  bottom: 0;*/
-    color:white;
-    padding:0;
     width: auto 0;
-    height: 70px;
-    background-color:#000000;
-    font-size: 25px;
+    height: 100px;
+    background-color:#000;
+    font-size: 15px;
     
+  }
+  .texto{
+    color:#ffff;
+    text-align: center;
   }
